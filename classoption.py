@@ -1,10 +1,10 @@
 import requests
 import pandas as pd
-from pandas.io.json._normalize import json_normalize
+
 import json
 from openpyxl import Workbook
-import numpy as np
-from scipy.stats import norm
+
+
 import datetime
 
 
